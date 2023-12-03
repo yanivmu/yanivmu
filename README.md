@@ -1,8 +1,9 @@
-###                                                                           Hi there 👋 I'm Yaniv
-###                                                  3rd year Electrical Engineering & Computer Science student at TAU 🖥️ ⚡
+<h2 (or 2 etc.) align="center"> Hi there 👋 I'm Yaniv </h1>
+<h4 (or 2 etc.) align="center"> 3rd year Electrical Engineering & Computer Science student at TAU 🖥️ ⚡ </h1>
 
 
 🌱 **I’m currently learning -** computer architecture and assembly language
+💬 **Ask me about -** Japanese
 
 <!--
 **yanivmu/yanivmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

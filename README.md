@@ -1,8 +1,10 @@
 <h2 (or 2 etc.) align="center"> Hi there 👋 I'm Yaniv </h1>
 <h4 (or 2 etc.) align="center"> 3rd year Electrical Engineering & Computer Science student at TAU 🖥️ ⚡ </h1>
 
+<br>
 
 🌱 **I’m currently learning -** computer architecture and assembly language <br>
+<br>
 💬 **Ask me about -** Japanese language
 
 <!--

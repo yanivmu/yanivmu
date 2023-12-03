@@ -1,4 +1,8 @@
-### Hi there 👋
+###                                                                           Hi there 👋 I'm Yaniv
+###                                                  3rd year Electrical Engineering & Computer Science student at TAU 🖥️ ⚡
+
+
+🌱 **I’m currently learning -** computer architecture and assembly language
 
 <!--
 **yanivmu/yanivmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

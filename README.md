@@ -1,12 +1,14 @@
 <h2 (or 2 etc.) align="center"> Hi there 👋 I'm Yaniv </h1>
 <h4 (or 2 etc.) align="center"> 3rd year Electrical Engineering & Computer Science student at TAU 🖥️ ⚡ </h1>
 
+<br><br>
+👨‍💻 **Programming in -** C, Java, Python (including NumPy and Pandas libraries). <br>
 <br>
-👨‍💻 **Programming in -** C, Java, Python <br>
-🌱 **I’m currently learning -** computer architecture and assembly language <br>
+🌱 **I’m currently learning -** computer architecture and assembly language. <br>
 <br>
-💬 **Ask me about -** Japanese language and good psychological thriller books <br>
-📫**Available at -** yanivmuallem@gmail.com <br>
+💬 **Ask me about -** Japanese language and good psychological thriller books. <br>
+<br>
+📫 **Available at -** yanivmuallem@gmail.com <br>
 <!--
 **yanivmu/yanivmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
